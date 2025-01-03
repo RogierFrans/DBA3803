@@ -73,5 +73,5 @@ XGBoost emerged as the best model for predicting flight delays. However, with a 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-delay-prediction.git
+   git clone https://github.com/RogierFrans/DBA3803
    cd flight-delay-prediction
